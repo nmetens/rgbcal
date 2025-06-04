@@ -11,7 +11,7 @@ For the initial measurements of frame rate and RGB values, I set all defaults to
 - **Brightness**: 15 (for red, green, and blue)
 - **Frame Rate**: 160
 
-In my [short 49 sec video demonstration on YouTube](https://youtube.com/shorts/Z9_jB4t4RLI?feature=share) (![Also found here](/VIDEO.mov), I showcased the full range of the spectrum:
+In my [short 49 sec video demonstration on YouTube](https://youtube.com/shorts/Z9_jB4t4RLI?feature=share) (![Also found here](/VIDEO.mov)), I showcased the full range of the spectrum:
 
 1. **Starting Point**
    All colors were set to maximum brightness, producing a white light from the LED.
